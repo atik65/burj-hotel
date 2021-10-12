@@ -1,0 +1,12 @@
+.login-form input {
+  margin: 20px 0;
+}
+
+.login-form {
+  width: 50%;
+  margin: auto;
+}
+
+.login-form input[type="radio"] {
+  margin: 0;
+}
